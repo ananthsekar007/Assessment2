@@ -38,7 +38,7 @@ namespace Assessment2
     public class LicensePlateSolution
     {
 
-        public static void Main(string[] args)
+        public void Main(string[] args)
         {
             Console.WriteLine("Enter the license number : ");
             string licenseNumber = Console.ReadLine()!;
